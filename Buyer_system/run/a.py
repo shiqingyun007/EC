@@ -6,3 +6,4 @@
 # File:a.py
 
 print("hello")
+print("hello")
